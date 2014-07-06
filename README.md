@@ -15,16 +15,16 @@ creating table
 
 saving data
 
-<img src = "https://raw.githubusercontent.com/bhaskar4n/address-book-database-linked/master/screenshots/6.PNG"
+<img src = "https://raw.githubusercontent.com/bhaskar4n/address-book-database-linked/master/screenshots/6.PNG"/>
 
 retrieve 
 
-<img src = "https://raw.githubusercontent.com/bhaskar4n/address-book-database-linked/master/screenshots/7.PNG"
+<img src = "https://raw.githubusercontent.com/bhaskar4n/address-book-database-linked/master/screenshots/7.PNG"/>
 
 update
 
-<img src = "https://raw.githubusercontent.com/bhaskar4n/address-book-database-linked/master/screenshots/9.PNG"
+<img src = "https://raw.githubusercontent.com/bhaskar4n/address-book-database-linked/master/screenshots/9.PNG"/>
 
 addressbookdatabase table
 
-<img src = "https://raw.githubusercontent.com/bhaskar4n/address-book-database-linked/master/screenshots/10.PNG'
+<img src = "https://raw.githubusercontent.com/bhaskar4n/address-book-database-linked/master/screenshots/10.PNG"/>
