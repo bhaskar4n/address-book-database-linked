@@ -21,9 +21,6 @@ retrieve
 
 <img src = "https://raw.githubusercontent.com/bhaskar4n/address-book-database-linked/master/screenshots/7.PNG"/>
 
-update
-
-<img src = "https://raw.githubusercontent.com/bhaskar4n/address-book-database-linked/master/screenshots/9.PNG"/>
 
 addressbookdatabase table
 
