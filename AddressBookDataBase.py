@@ -288,7 +288,6 @@ class AddressBook(wx.Frame):
                            self.homephe,self.workphe,self.mobile,self.email,self.email2,self.notes,self.app)
         self.cursor.execute(sql4)
         self.db.commit()
-        self.updat.close()
         self.app=0
         self.btn4.Destroy()
         self.dial = wx.MessageDialog(None, 'updated', 'Info', wx.OK)
